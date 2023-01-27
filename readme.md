@@ -27,6 +27,3 @@ You can also use `Electronmon` to constantly run and not have to reload after ma
 npx electronmon .
 ```
 
-## Packaging
-
-There are multiple ways to package Electron apps. I would suggest [Electron Forge](https://www.electronforge.io/). I did not implement any packaging into this app.
